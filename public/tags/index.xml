@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cristian Rohr</title>
-    <link>http://cristianrohr.xyz/tags/</link>
+    <link>cristianrohr.xyz/tags/</link>
     <description>Recent content in Tags on Cristian Rohr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="http://cristianrohr.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="cristianrohr.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>creativecoding</title>
-      <link>http://cristianrohr.xyz/tags/creativecoding/</link>
+      <link>cristianrohr.xyz/tags/creativecoding/</link>
       <pubDate>Tue, 14 Jun 2022 22:00:00 +0000</pubDate>
       
-      <guid>http://cristianrohr.xyz/tags/creativecoding/</guid>
+      <guid>cristianrohr.xyz/tags/creativecoding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generativeart</title>
-      <link>http://cristianrohr.xyz/tags/generativeart/</link>
+      <link>cristianrohr.xyz/tags/generativeart/</link>
       <pubDate>Tue, 14 Jun 2022 22:00:00 +0000</pubDate>
       
-      <guid>http://cristianrohr.xyz/tags/generativeart/</guid>
+      <guid>cristianrohr.xyz/tags/generativeart/</guid>
       <description></description>
     </item>
     
