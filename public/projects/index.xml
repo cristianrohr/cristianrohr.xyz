@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cristian Rohr</title>
+    <link>http://cristianrohr.xyz/projects/</link>
+    <description>Recent content in Projects on Cristian Rohr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://cristianrohr.xyz/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geoetris</title>
+      <link>http://cristianrohr.xyz/projects/geoetris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cristianrohr.xyz/projects/geoetris/</guid>
+      <description>Page under construction </description>
+    </item>
+    
+    <item>
+      <title>Isomeric doppelgangers</title>
+      <link>http://cristianrohr.xyz/projects/isomericdoppelgangers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cristianrohr.xyz/projects/isomericdoppelgangers/</guid>
+      <description>Page under construction </description>
+    </item>
+    
+    <item>
+      <title>Minecular</title>
+      <link>http://cristianrohr.xyz/projects/minecular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cristianrohr.xyz/projects/minecular/</guid>
+      <description>Page under construction </description>
+    </item>
+    
+    <item>
+      <title>Yo automata</title>
+      <link>http://cristianrohr.xyz/projects/yo_automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cristianrohr.xyz/projects/yo_automata/</guid>
+      <description>Page under construction </description>
+    </item>
+    
+  </channel>
+</rss>
