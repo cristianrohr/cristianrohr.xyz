@@ -72,7 +72,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     name = "Art Gallery"
-    url = "https://cristianrohr.github.io"
+    url = "https://art.cristianrohr.xyz/"
     weight = 3
 
   [[menu.main]]
