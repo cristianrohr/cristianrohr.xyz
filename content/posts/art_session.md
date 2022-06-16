@@ -3,7 +3,7 @@ title: "Introducing CR Art Sessions on fx(hash)"
 date: 2022-06-16T00:00:00+00:00
 tags: ["generativeart", "creativecoding", "artsessions", "geoetris", "fxhash"]
 type: "post"
-image: "/images/lorem-ipsum/quick-fox.png"
+image: "/images/projects/crartsession1/CR_Art_Sessions_1_1_highres.png"
 showTableOfContents: false
 ---
 
@@ -34,4 +34,4 @@ The second is a composition of circles and squares, where there is a very simple
 The third is a version where the larger geometric shapes are not filled and only their silhouette is marked.
 ![Third type](/images/projects/crartsession1/CR_Art_Sessions_1_3_highres.png)
 
-Also this collection doesn't have features, I think this is a good way for people to collect items they like not based only on rarity.
+Also this collection doesn't have features, I think this is a good way for people to collect items they like not based only on
