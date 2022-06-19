@@ -14,9 +14,9 @@ type: page
   * [Geoetris](https://www.fxhash.xyz/generative/13194)
 
 
-**Projects on 8bidou (https://www.8bidou.com/)**
+**Projects on [8bidou](https://www.8bidou.com/)**
 
-  * [Universo Paralelo](https://www.fxhash.xyz/generative/14954)
+  * [Universo Paralelo](https://ui.8bidou.com/inventory/?tab=2&addr=tz1fYx7JoBE8BNGAbhCKxEkFAufo3CH2Aa4r)
 
 
 **Projects on [objekt.com](https://objkt.com/)**
