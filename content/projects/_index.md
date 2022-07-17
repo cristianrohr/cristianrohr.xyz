@@ -8,6 +8,7 @@ type: page
 
 **Projects on [fx(hash)](https://www.fxhash.xyz/)**
 
+  * [Varillas](https://www.fxhash.xyz/generative/16015)
   * [CR Art Sessions //1](https://www.fxhash.xyz/generative/14954)
   * [Yo automata](https://www.fxhash.xyz/generative/14427)
   * [Isomeric doppelgangers](https://www.fxhash.xyz/generative/13745)
