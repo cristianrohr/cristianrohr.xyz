@@ -2,44 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Cristian Rohr</title>
-    <link>cristianrohr.xyz/projects/</link>
+    <link>https://cristianrohr.xyz/projects/</link>
     <description>Recent content in Projects on Cristian Rohr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="cristianrohr.xyz/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://cristianrohr.xyz/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geoetris</title>
-      <link>cristianrohr.xyz/projects/geoetris/</link>
+      <link>https://cristianrohr.xyz/projects/geoetris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/geoetris/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/geoetris/</guid>
+      <description>Mi first generative project on fx(hash). Squares and ellipses evolving into abstract art.</description>
     </item>
     
     <item>
       <title>Isomeric doppelgangers</title>
-      <link>cristianrohr.xyz/projects/isomericdoppelgangers/</link>
+      <link>https://cristianrohr.xyz/projects/isomericdoppelgangers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/isomericdoppelgangers/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/isomericdoppelgangers/</guid>
+      <description>This came from my background in bioinformatics. The theory behind this, and the use of WEBGL remainds me the molecular structures of proteins.</description>
     </item>
     
     <item>
       <title>Minecular</title>
-      <link>cristianrohr.xyz/projects/minecular/</link>
+      <link>https://cristianrohr.xyz/projects/minecular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/minecular/</guid>
+      <guid>https://cristianrohr.xyz/projects/minecular/</guid>
       <description>Page under construction </description>
     </item>
     
     <item>
       <title>Yo automata</title>
-      <link>cristianrohr.xyz/projects/yo_automata/</link>
+      <link>https://cristianrohr.xyz/projects/cr_art_sessions1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/yo_automata/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/cr_art_sessions1/</guid>
+      <description>Three types of art on the same gentk.</description>
+    </item>
+    
+    <item>
+      <title>Yo automata</title>
+      <link>https://cristianrohr.xyz/projects/yo_automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristianrohr.xyz/projects/yo_automata/</guid>
+      <description>A cellular automaton is a model of a system of “cell” objects with the following characteristics.
+The cells live on a grid. (We’ll see examples in both one and two dimensions in this chapter, though a cellular automaton can exist in any finite number of dimensions.)
+Each cell has a state. The number of state possibilities is typically finite. The simplest example has the two possibilities of 1 and 0 (otherwise referred to as “on” and “off” or “alive” and “dead”).</description>
     </item>
     
   </channel>

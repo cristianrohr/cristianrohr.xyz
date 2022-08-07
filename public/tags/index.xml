@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cristian Rohr</title>
-    <link>cristianrohr.xyz/tags/</link>
+    <link>https://cristianrohr.xyz/tags/</link>
     <description>Recent content in Tags on Cristian Rohr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="cristianrohr.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 18:24:09 -0300</lastBuildDate><atom:link href="https://cristianrohr.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>artsessions</title>
+      <link>https://cristianrohr.xyz/tags/artsessions/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
+      
+      <guid>https://cristianrohr.xyz/tags/artsessions/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>creativecoding</title>
-      <link>cristianrohr.xyz/tags/creativecoding/</link>
-      <pubDate>Tue, 14 Jun 2022 22:00:00 +0000</pubDate>
+      <link>https://cristianrohr.xyz/tags/creativecoding/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
       
-      <guid>cristianrohr.xyz/tags/creativecoding/</guid>
+      <guid>https://cristianrohr.xyz/tags/creativecoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fxhash</title>
+      <link>https://cristianrohr.xyz/tags/fxhash/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
+      
+      <guid>https://cristianrohr.xyz/tags/fxhash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generativeart</title>
-      <link>cristianrohr.xyz/tags/generativeart/</link>
-      <pubDate>Tue, 14 Jun 2022 22:00:00 +0000</pubDate>
+      <link>https://cristianrohr.xyz/tags/generativeart/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
       
-      <guid>cristianrohr.xyz/tags/generativeart/</guid>
+      <guid>https://cristianrohr.xyz/tags/generativeart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geoetris</title>
+      <link>https://cristianrohr.xyz/tags/geoetris/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
+      
+      <guid>https://cristianrohr.xyz/tags/geoetris/</guid>
       <description></description>
     </item>
     

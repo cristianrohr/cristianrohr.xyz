@@ -2,54 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristian Rohr</title>
-    <link>cristianrohr.xyz/</link>
+    <link>https://cristianrohr.xyz/</link>
     <description>Recent content on Cristian Rohr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 22:00:00 +0000</lastBuildDate><atom:link href="cristianrohr.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 18:24:09 -0300</lastBuildDate><atom:link href="https://cristianrohr.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>cristianrohr.xyz/posts/test/</link>
-      <pubDate>Tue, 14 Jun 2022 22:00:00 +0000</pubDate>
+      <title>History of &#39;Convivencia&#39; a generative art project - and its personal background</title>
+      <link>https://cristianrohr.xyz/posts/convivencia/</link>
+      <pubDate>Sun, 07 Aug 2022 18:24:09 -0300</pubDate>
       
-      <guid>cristianrohr.xyz/posts/test/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/posts/convivencia/</guid>
+      <description>About the project Convivencia is a generative art project in the Tezos network. It consists of 350 pieces and will be available on the fxhash platform.
+&amp;lsquo;Convivencia&amp;rsquo; is a Spanish word that means coexistence. The title has a background, which I will explain in the end of the post, first I want to tell the characteristics and challenges encountered during the development.
+Test mint for Convivencia
+This project has a number of substantial differences with respect to my previous projects, namely:</description>
+    </item>
+    
+    <item>
+      <title>Introducing CR Art Sessions on fx(hash)</title>
+      <link>https://cristianrohr.xyz/posts/art_session/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristianrohr.xyz/posts/art_session/</guid>
+      <description>In Argentina there is a very young and talented music producer called BIZARRAP.
+He is very famous for the BZRP Music Sessions, which are tracks in collaboration with international artists that Bizarrap produces in his studio, which also serves as a recording studio for the official video clip of the track.
+In these sessions the artists have the freedom to express themselves in ways that perhaps the industry doesn&amp;rsquo;t allow them because they have an image to sell, or the freedom to deliver whatever they want.</description>
     </item>
     
     <item>
       <title>Geoetris</title>
-      <link>cristianrohr.xyz/projects/geoetris/</link>
+      <link>https://cristianrohr.xyz/projects/geoetris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/geoetris/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/geoetris/</guid>
+      <description>Mi first generative project on fx(hash). Squares and ellipses evolving into abstract art.</description>
     </item>
     
     <item>
       <title>Isomeric doppelgangers</title>
-      <link>cristianrohr.xyz/projects/isomericdoppelgangers/</link>
+      <link>https://cristianrohr.xyz/projects/isomericdoppelgangers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/isomericdoppelgangers/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/isomericdoppelgangers/</guid>
+      <description>This came from my background in bioinformatics. The theory behind this, and the use of WEBGL remainds me the molecular structures of proteins.</description>
     </item>
     
     <item>
       <title>Minecular</title>
-      <link>cristianrohr.xyz/projects/minecular/</link>
+      <link>https://cristianrohr.xyz/projects/minecular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/minecular/</guid>
+      <guid>https://cristianrohr.xyz/projects/minecular/</guid>
       <description>Page under construction </description>
     </item>
     
     <item>
       <title>Yo automata</title>
-      <link>cristianrohr.xyz/projects/yo_automata/</link>
+      <link>https://cristianrohr.xyz/projects/cr_art_sessions1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>cristianrohr.xyz/projects/yo_automata/</guid>
-      <description>Page under construction </description>
+      <guid>https://cristianrohr.xyz/projects/cr_art_sessions1/</guid>
+      <description>Three types of art on the same gentk.</description>
+    </item>
+    
+    <item>
+      <title>Yo automata</title>
+      <link>https://cristianrohr.xyz/projects/yo_automata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristianrohr.xyz/projects/yo_automata/</guid>
+      <description>A cellular automaton is a model of a system of “cell” objects with the following characteristics.
+The cells live on a grid. (We’ll see examples in both one and two dimensions in this chapter, though a cellular automaton can exist in any finite number of dimensions.)
+Each cell has a state. The number of state possibilities is typically finite. The simplest example has the two possibilities of 1 and 0 (otherwise referred to as “on” and “off” or “alive” and “dead”).</description>
     </item>
     
   </channel>
