@@ -1,6 +1,7 @@
 ---
 title: "History of 'Convivencia' a generative art project - and its personal background"
 date: 2022-08-07T18:24:09-03:00
+draft: true
 tags: ["generativeart", "creativecoding", "convivencia", "fxhash", "mint"]
 type: "post"
 image: "/images/projects/convivencia/convivencia_1000x1000.png"
