@@ -8,6 +8,8 @@ type: page
 
 **Projects on [fx(hash)](https://www.fxhash.xyz/)**
 
+  * [Chimalmat Relics](https://www.fxhash.xyz/generative/19275)
+  * [Lineas](https://www.fxhash.xyz/generative/18115)
   * [Varillas](https://www.fxhash.xyz/generative/16015)
   * [CR Art Sessions //1](https://www.fxhash.xyz/generative/14954)
   * [Yo automata](https://www.fxhash.xyz/generative/14427)
