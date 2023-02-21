@@ -8,6 +8,7 @@ type: page
 
 **Projects on [fx(hash)](https://www.fxhash.xyz/)**
 
+  * [CR Art Sessions //2](https://www.fxhash.xyz/generative/22260)
   * [Hold the line](https://www.fxhash.xyz/generative/20554)
   * [Chimalmat Relics](https://www.fxhash.xyz/generative/19275)
   * [Lineas](https://www.fxhash.xyz/generative/18115)
