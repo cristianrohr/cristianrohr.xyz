@@ -8,6 +8,7 @@ type: page
 
 **Projects on [fx(hash)](https://www.fxhash.xyz/)**
 
+  * [Dualidad](https://www.fxhash.xyz/generative/23695)
   * [CR Art Sessions //2](https://www.fxhash.xyz/generative/22260)
   * [Hold the line](https://www.fxhash.xyz/generative/20554)
   * [Chimalmat Relics](https://www.fxhash.xyz/generative/19275)
@@ -18,6 +19,7 @@ type: page
   * [Isomeric doppelgangers](https://www.fxhash.xyz/generative/13745)
   * [Geoetris](https://www.fxhash.xyz/generative/13194)
 
+**Artworks on [Knownorigin](https://knownorigin.io/cristian-rohr)**
 
 **Projects on [8bidou](https://www.8bidou.com/)**
 
