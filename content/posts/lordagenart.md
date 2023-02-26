@@ -1,7 +1,6 @@
 ---
 title: "Lorda: a generative art homage to wine"
 date: 2023-02-26T19:03:24-03:00
-draft: true
 tags: ["generativeart", "creativecoding", "lorda", "tannat", "fxhash", "mint", "wine"]
 type: "post"
 image: "/images/projects/lorda/0030-oojaYSK8ikuykx7jc9PFsZJwFwxFvM1nMUvw4opFoEBH4Vce2H2-.png"
