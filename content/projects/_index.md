@@ -8,6 +8,8 @@ type: page
 
 **Projects on [fx(hash)](https://www.fxhash.xyz/)**
 
+  * [Interludio](https://www.fxhash.xyz/generative/28472)
+  * [Lorda](https://www.fxhash.xyz/generative/25540)
   * [Dualidad](https://www.fxhash.xyz/generative/23695)
   * [CR Art Sessions //2](https://www.fxhash.xyz/generative/22260)
   * [Hold the line](https://www.fxhash.xyz/generative/20554)
